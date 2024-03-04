@@ -1,0 +1,8 @@
+name: herochataddon
+version: '1.0'
+main: org.myserver.herochataddon.HerochatAddon
+api-version: '1.20'
+commands:
+  setemotecolor:
+    description: Sets the player's emote color.
+    usage: /<command> <color>

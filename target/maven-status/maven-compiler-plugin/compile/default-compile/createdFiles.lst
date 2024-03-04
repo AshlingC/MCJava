@@ -1,0 +1,4 @@
+org\myserver\herochataddon\HerochatAddonData.class
+org\myserver\herochataddon\ChatListener.class
+org\myserver\herochataddon\HerochatAddon.class
+org\myserver\herochataddon\SetEmoteColorCommand.class
